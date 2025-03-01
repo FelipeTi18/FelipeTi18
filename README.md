@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://github.com/MeuUsuario">
-    <img src="felipe_wroblewski.png" alt="Meu Nome" />
-  </a>
-</p>
+<h1 align="center" style="color:#76A2F7; font-weight:bold; font-size:32px; font-family:Poppins, sans-serif;">
+  Felipe Wroblewski
+</h1>
 
 
 <p align="center"> 
