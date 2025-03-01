@@ -1,14 +1,8 @@
-<svg width="600" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
-    </style>
-  </defs>
-  <text x="50%" y="50%" font-size="32" fill="#76A2F7" font-weight="bold"
-      font-family="Poppins" text-anchor="middle" dominant-baseline="middle">
-        Felipe Wroblewski
-    </text>
-</svg>
+<p align="center">
+  <a href="https://github.com/MeuUsuario">
+    <img src="felipe_wroblewski.png" alt="Meu Nome" />
+  </a>
+</p>
 
 
 <p align="center"> 
