@@ -8,7 +8,7 @@
 
 
 
-Me chamo Felipe Gabriel Wroblewski, tenho 18 anos e sou natural de Santa Catarina. Concluí o meu ensono médio no Senai, com o técnico integrado de desenvolvimento de sistemas. Atualmente estou cursando engenharia de software na Católica SC. Sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+Me chamo Felipe Gabriel Wroblewski, tenho 18 anos e sou natural de Santa Catarina. Concluí o meu ensino médio no Senai, com o técnico integrado de desenvolvimento de sistemas. Atualmente estou cursando engenharia de software na Católica SC. Sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
 <p align="center">
     <a href="https://www.instagram.com/_felipg_/">
