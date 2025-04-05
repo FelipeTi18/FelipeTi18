@@ -55,6 +55,6 @@ Me chamo Felipe Gabriel Wroblewski, tenho 18 anos e sou natural de Santa Catarin
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FelipeTi18/FelipeTi18/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/FelipeTi18/FelipeTi18/blob/output/github-contribution-grid-snake2.svg)
 
 ###
