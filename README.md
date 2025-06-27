@@ -18,7 +18,7 @@ Studying Software Engineering (1st/8th semester) at Católica SC, passionate abo
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Stacks
 
 <div align="left">
   
