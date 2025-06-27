@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=1&pause=1000&color=76A2F7&center=true&multiline=true&repeat=false&width=435&lines=Felipe+Wroblewski" alt="Felipe Wroblewski" /></a>
 </p>
 
-Me chamo Felipe Gabriel Wroblewski, tenho 19 anos e sou natural de Santa Catarina. Concluí o meu ensino médio no Senai, com o técnico integrado de desenvolvimento de sistemas. Atualmente estou cursando engenharia de software na Católica SC e trabalhando no atendimento de sistemas na empresa Live. Sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+Studying Software Engineering (1st/8th semester) at Católica SC, passionate about technology, problem-solving, personal growth, and turning ideas into real systems. Graduated from SENAI with a technical degree in Systems Development. Currently working with system support at Live.
 
 <p align="center">
     <a href="https://www.instagram.com/felipg.w/">
