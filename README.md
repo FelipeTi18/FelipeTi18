@@ -5,7 +5,7 @@
 Me chamo Felipe Gabriel Wroblewski, tenho 19 anos e sou natural de Santa Catarina. Concluí o meu ensino médio no Senai, com o técnico integrado de desenvolvimento de sistemas. Atualmente estou cursando engenharia de software na Católica SC e trabalhando no atendimento de sistemas na empresa Live. Sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
 <p align="center">
-    <a href="https://www.instagram.com/_felipg_/">
+    <a href="https://www.instagram.com/felipg.w/">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
     </a>
     <a href="mailto:gabrielfelipewroblewski@gmail.com">
