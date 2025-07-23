@@ -34,8 +34,8 @@ Studying Software Engineering (1st/8th semester) at Católica SC, passionate abo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" height="30"/>
   <img width="12" />
-
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" height="30" />
+  <img width="12" />
 
 
 </div>
