@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=1&pause=1000&color=76A2F7&center=true&multiline=true&repeat=false&width=435&lines=Felipe+Wroblewski" alt="Felipe Wroblewski" /></a>
 </p>
 
-Studying Software Engineering (1st/8th semester) at Católica SC, passionate about technology, problem-solving, personal growth, and turning ideas into real systems. Graduated from SENAI with a technical degree in Systems Development. Currently working with system support at Live.
+Studying Software Engineering (2nd/8th semester) at Católica SC, passionate about technology, problem-solving, personal growth, and turning ideas into real systems. Graduated from SENAI with a technical degree in Systems Development. Currently working with system support at Live.
 
 <p align="center">
     <a href="https://www.instagram.com/felipg.w/">
