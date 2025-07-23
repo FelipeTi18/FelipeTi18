@@ -43,7 +43,7 @@ Studying Software Engineering (1st/8th semester) at Católica SC, passionate abo
 
 ### Languagens
 
-🇧🇷 Native Portuguese  
+<img src="https://flagcdn.com/w40/br.png" width="20"/> Native Portuguese  
 🇺🇸 Intermediate English
 
 <br clear="both">
